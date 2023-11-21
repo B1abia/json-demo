@@ -6,7 +6,8 @@
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 2, "body": "some comment", "postId": 1 }，
+    { "id": 3, "body": "B1ubiu", "postId": 11 }
   ],
   "B1u": [
     {"name": "B1ubiu", "Bia": "boom", "num": 123}
