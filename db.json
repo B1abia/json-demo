@@ -11,10 +11,9 @@
   "profile": {
     "name": "typicode"
   },
-  "B1u": {
+  "B1u": [{
     "name": "B1ubiu",
     "Bia": "boom",
     "num": 123
-  }
-  
+  }]
 }
